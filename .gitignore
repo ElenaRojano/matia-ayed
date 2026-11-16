@@ -1,0 +1,12 @@
+# Datos del hospital y rutas personales: NUNCA se suben
+config_local.py
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+!datos_ejemplo/**
+resultados/
+# Archivos de Python y del sistema
+__pycache__/
+*.pyc
+.DS_Store

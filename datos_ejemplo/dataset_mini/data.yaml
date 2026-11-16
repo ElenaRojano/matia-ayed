@@ -1,0 +1,11 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names:
+- QB003R
+- QH110R
+- NB114R
+- QC101R
+- IMG
+- QF200R

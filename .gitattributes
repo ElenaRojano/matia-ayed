@@ -1,0 +1,6 @@
+# Los scripts de Bash deben tener finales de línea de Linux (LF) también en Windows
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.xlsx binary
+*.JPG binary
